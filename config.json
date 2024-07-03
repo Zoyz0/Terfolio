@@ -1,38 +1,38 @@
 {
   "ascii": [
-    "███████╗ ██╗   ██╗ ██████╗  ██╗████████╗██╗  ██╗",
-    "██╔════╝ ██║   ██║ ██╔══██╗ ██║╚══██╔══╝██║  ██║",
-    "███████╗ ██║   ██║ ██████╔╝ ██║   ██║   ███████║",
-    "╚════██║ ██║   ██║ ██╔══██╗ ██║   ██║   ██╔══██║",
-    "███████║ ╚██████╔╝ ██║  ██║ ██║   ██║   ██║  ██║",
-    "╚══════╝   ╚═════  ╚═╝  ╚═╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝"
+    "███████╗███████╗██╗ ██████╗",
+    "█╔════╝╚══███╔╝██║██╔═══██╗",
+    "█████╗    ███╔╝ ██║██║   ██║",
+    "██╔══╝   ███╔╝  ██║██║   ██║",
+    "███████╗███████╗██║╚██████╔╝",
+    "╚══════╝╚══════╝╚═╝ ╚═════╝ "
   ],
-  "title": "Terfolio",
+  "title": "Ezio",
   "username": "guest",
-  "hostname": "surith.dev",
-  "password": "69420",
-  "repoLink": "https://github.com/lgsurith/Terfolio",
+  "hostname": "ezio.dev",
+  "password": "niacantik",
+  "repoLink": "https://github.com/Zoyz0/Terfolio",
   "social": {
-    "email": "surithcodes204@gmail.com",
-    "github": "lgsurith",
-    "linkedin": "surithlg"
+    "email": "atsushi@tutanota.com",
+    "github": "Zoyz0",
+    "linkedin": "atsushi-yt-62a12b209"
   },
   "aboutGreeting": "Hello there! I'm Surith, currently an undergrad at VIT Chennai pursuing Electronics and Computer Science",
   "projects": [
     [
-      "Brock Bot",
-      "A Telegram Bot about Brock Fine tuned with the help of Gemini 1.5 pro",
-      "https://github.com/lgsurith/Brock_v1-Bot"
+      "WannaCry",
+      "A reverse engineerd project that ransomware website",
+      "classified"
     ],
     [
-      "Gemini Chatbot",
-      "A Chatbot that can be used to interact with the Gemini 1.5 Pro",
-      "https://github.com/lgsurith/Gemini_Web_UI"
+      "JasaMc Naning",
+      "A website for my mom bussines",
+      "https://replit.com/@Mouskiup/JasamcNaning"
     ],
     [
-      "Node Mini Projects",
-      "A collection of Mini Projects using Node.js",
-      "https://github.com/lgsurith/Node-Mini-Projects"
+      "Randomly Website",
+      "A website for my discord server",
+      "https://replit.com/@mouskiup29/RandomLy#index.html"
     ],
     [
       "Gesture Volume Control",
@@ -41,16 +41,16 @@
     
     ],
     [
-      "Bank Management System",
-      "A simple Bank Management System built using C++",
-      "https://github.com/lgsurith/Bank-Management"
+      "aFz Team Website",
+      "A website for an indonesia roblox community",
+      "https://replit.com/@mouskiup29/afzteam-1"
     ]
   ],
   "contributions": [
     [
-      "Sahaya",
-      "Gemini and API integration on the backend",
-      "https://github.com/sr2echa/sahaya/"
+      "aFz Team",
+      "staff at aFz team 2022 - 2024",
+      "https://www.roblox.com/groups/6613107/aFz-Team-Indonesia#!/about"
     ],
     [
       "Valt",
@@ -65,20 +65,20 @@
   ],
   "achievements" : [
     [
-      "Reva Hack'23 (MLH Event)",
-      "Emerged as Title Winners from a 36 hour hackathon"
+      "dicoding event",
+      "hosted by indosat hutchitson"
     ],
     [
-      "Synthetix '24",
-      "Electrical Domain Winner - innovated a problem statement for the event with the help of teammates"
+      "nfcomputer certification",
+      "Web basic certification (2021)"
     ],
     [
-      "IEEE YESIST'24",
-      "World Finalists based on the product Sahaya - a platform for disaster management and relief operations"
+      "Oxford home study center",
+      "Cybersecurity certification (2022)"
     ],
     [
-      "Deans List",
-      "5th Rank in the Department of Electronics and Computer Science for the year '23 ,'24" 
+      "Classified",
+      "Classified" 
     ]
   ],
   "colors": {
